@@ -47,7 +47,7 @@ public interface OwnerService {
 	 * @param typeId
 	 * @return
 	 */
-	List<Owner> findByTypeId(int id);
+	List<Owner> findByTypeId(int typeId);
 
 	/**
 	 * 
